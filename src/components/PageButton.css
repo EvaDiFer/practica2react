@@ -1,0 +1,23 @@
+.page-button {
+  padding: 4px 16px;
+  font-size: 16px;
+  background-color: #549aeb;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 8px;
+  margin-bottom: 5px;
+}
+
+.page-button:hover {
+  background-color: #0056b3;
+}
+
+.page-button.next {
+  float: right;
+}
+
+.page-button.previous {
+  float: left;
+}
